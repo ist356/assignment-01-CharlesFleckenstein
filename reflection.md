@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Charles Fleckenstein
+Sudent Email: Cfflecke
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to edit code through git hub repositories and how to push and pull and clone code. I also refreshde my memory on some topics as well as leearned new ones such as how to run the VScode test page and testers.
